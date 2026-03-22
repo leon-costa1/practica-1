@@ -1,2 +1,3 @@
 # practica-1
-Seminario de Lenguajes - Python - Practica 1
+León Costa 
+Legajo: 027607/2
